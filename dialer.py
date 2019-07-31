@@ -30,7 +30,7 @@ URL = None
 ACCOUNT_SID ="Your twilio account_sid "
 AUTH_TOKEN = "Your twilio auth_token"
 
-FROM = "+country_codenumber"
+FROM = "+country_code number"
 
 URL = "https://www.dropbox.com/s/089m3tf616fc5ie/voice.xml"
 
